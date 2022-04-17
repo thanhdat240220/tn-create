@@ -42,8 +42,7 @@ const Header: React.FC = () => {
             Welcome
           </h1>
           <h3 className="font-medium xl:text-2xl text-center">
-            Hello, I am a Developer. <br />
-            This is website for my profile
+            App Development, done right.
           </h3>
         </div>
         <div
